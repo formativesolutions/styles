@@ -31,4 +31,15 @@
  * @since v1.0.0
  */
 
-// export { ClassName } from "./class-location";
+export {
+	FlexAlignmentOption,
+	FlexContainerConfiguration,
+	flexContainer,
+} from "./flex-container";
+
+export {
+	ColorMap,
+	colorNameToCSSVar,
+	createColorToCSSVariableNameMap,
+	generateColorDefinitionsCSSObject,
+} from "./color-mapping";
