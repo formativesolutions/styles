@@ -1,10 +1,12 @@
 /*
- * Created by Trevor Sears <trevor@trevorsears.com> (https://trevorsears.com/).
- * 10:53 PM -- June 11th, 2019.
- * Project: <name>
+ * Created by Formative Solutions <contact@formativesolutions.io>
+ *     (https://formativesolutions.io/).
+ * 3:00 PM -- November 9th, 2022
+ * Project: @formativesolutions/styles
  * 
- * <name> - <desc>
- * Copyright (C) 2022 Trevor Sears
+ * @formativesolutions/styles - A collection of CSS-in-JS styling utilities used
+ *     across the Formative Solutions ecosystem.
+ * Copyright (C) 2022 Formative Solutions
  * 
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
@@ -23,9 +25,10 @@
 /**
  * NPM main class used for exporting this package's contents.
  *
- * @author Trevor Sears <trevor@trevorsears.com> (https://trevorsears.com/)
- * @version v<version>
- * @since v<version>
+ * @author Formative Solutions <contact@formativesolutions.io>
+ *     (https://formativesolutions.io/)
+ * @version v1.0.0
+ * @since v1.0.0
  */
 
 // export { ClassName } from "./class-location";

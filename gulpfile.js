@@ -1,10 +1,12 @@
 /*
- * Created by Trevor Sears <trevor@trevorsears.com> (https://trevorsears.com/).
- * 8:48 PM -- June 16th, 2019.
- * Project: <name>
+ * Created by Formative Solutions <contact@formativesolutions.io>
+ *     (https://formativesolutions.io/).
+ * 3:00 PM -- November 9th, 2022
+ * Project: @formativesolutions/styles
  * 
- * <name> - <desc>
- * Copyright (C) 2022 Trevor Sears
+ * @formativesolutions/styles - A collection of CSS-in-JS styling utilities used
+ *     across the Formative Solutions ecosystem.
+ * Copyright (C) 2022 Formative Solutions
  * 
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by

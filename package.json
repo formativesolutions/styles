@@ -1,7 +1,7 @@
 {
-	"name": "<name>",
-	"version": "<version>",
-	"description": "<desc>",
+	"name": "@formativesolutions/styles",
+	"version": "1.0.0",
+	"description": "A collection of CSS-in-JS styling utilities used across the Formative Solutions ecosystem.",
 	"type": "module",
 	"exports": {
 		".": "./js/main.js"
@@ -21,26 +21,26 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/<github_org>/<base_name>.git"
+		"url": "git+https://github.com/formativesolutions/styles.git"
 	},
 	"keywords": [],
-	"author": "Trevor Sears <trevor@trevorsears.com> (https://trevorsears.com/)",
+	"author": "Formative Solutions <contact@formativesolutions.io> (https://formativesolutions.io/)",
 	"license": "GPL-3.0-or-later",
 	"bugs": {
-		"url": "https://github.com/<github_org>/<base_name>/issues"
+		"url": "https://github.com/formativesolutions/styles/issues"
 	},
-	"homepage": "https://github.com/<github_org>/<base_name>#readme",
+	"homepage": "https://github.com/formativesolutions/styles#readme",
 	"devDependencies": {
 		"@t99/eslint-config": "latest",
 		"@types/jest": "latest",
 		"del": "latest",
 		"gulp": "latest",
 		"gulp-sourcemaps": "latest",
-		"gulp-typescript": "latest",
 		"gulp-terser": "latest",
+		"gulp-typescript": "latest",
 		"jest": "latest",
 		"ts-jest": "latest",
-		"typescript": "latest",
-		"ts-node": "latest"
+		"ts-node": "latest",
+		"typescript": "latest"
 	}
 }
