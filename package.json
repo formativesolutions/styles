@@ -38,6 +38,7 @@
 	"devDependencies": {
 		"@t99/eslint-config": "latest",
 		"@types/jest": "latest",
+		"@types/react": "latest",
 		"del": "latest",
 		"gulp": "latest",
 		"gulp-sourcemaps": "latest",
