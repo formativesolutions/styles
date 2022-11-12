@@ -23,7 +23,12 @@
 		"type": "git",
 		"url": "git+https://github.com/formativesolutions/styles.git"
 	},
-	"keywords": [],
+	"keywords": [
+		"formativesolutions",
+		"css-in-js",
+		"stylesheets",
+		"styles"
+	],
 	"author": "Formative Solutions <contact@formativesolutions.io> (https://formativesolutions.io/)",
 	"license": "GPL-3.0-or-later",
 	"bugs": {
