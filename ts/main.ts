@@ -35,7 +35,7 @@ export {
 	FlexAlignmentOption,
 	FlexContainerConfiguration,
 	flexContainer,
-} from "./flex-container";
+} from "./mixins/flex-container";
 
 export {
 	ColorMap,
