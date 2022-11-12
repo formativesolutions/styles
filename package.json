@@ -1,7 +1,10 @@
 {
 	"name": "@formativesolutions/styles",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "A collection of CSS-in-JS styling utilities used across the Formative Solutions ecosystem.",
+	"publishConfig": {
+		"access": "restricted"
+	},
 	"type": "module",
 	"exports": {
 		".": "./js/main.js"
