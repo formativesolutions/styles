@@ -35,11 +35,11 @@ export {
 	FlexAlignmentOption,
 	FlexContainerConfiguration,
 	flexContainer,
-} from "./mixins/flex-container";
+} from "./mixins/flex-container.js";
 
 export {
 	ColorMap,
 	colorNameToCSSVar,
 	createColorToCSSVariableNameMap,
 	generateColorDefinitionsCSSObject,
-} from "./color-mapping";
+} from "./color-mapping.js";
